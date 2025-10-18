@@ -1,13 +1,13 @@
-# 🏢 Projeto Monitora+
+# 📈 Projeto Monitora+
 
 Está aplicação tem como objetivo realizar a gestão e monitoramento dos produtos em estoque, apresentando dados através de gráficos e tabelas para análise completa.
 
 ## 📌 Funcionalidades
 
 ### 👤 Usuário
-- Administrar usuários que podem logar no site
-
-
+- Analisar gráficos
+- Verificar lista de itens em estoque/solicitados
+- Receber dicas através de IA ao verificar os dados
 
 ## 🚀 Tecnologias Utilizadas
 
