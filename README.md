@@ -39,9 +39,17 @@ Está aplicação tem como objetivo realizar a gestão e monitoramento dos produ
 ## 👷🏼 Desenvolvedores
 
 - Arthur Possebon
-    - <a href="www.linkedin.com/in/arthur-possebon-74a845268" target="_blank">Linkedin</a>
-    - <a href="https://www.instagram.com/arthur_posse" target="_blank">Instagram</a>
+  <a href="https://www.linkedin.com/in/arthur-possebon-74a845268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
+  </a>
+  <a href="https://www.instagram.com/arthur_posse/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Icone Instagram">
+  </a>
 
 - Lorenzo Sprenger
-    - <a href="linkedin.com/in/lorenzo-vanlare-sprenger-👨🏻‍💻-7a9667239" target="_blank">Linkedin</a>
-    - <a href="https://www.instagram.com/lorenzo.sprenger" target="_blank">Instagram</a>
+  <a href="linkedin.com/in/lorenzo-vanlare-sprenger-👨🏻‍💻-7a9667239">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
+  </a>
+  <a href="https://www.instagram.com/lorenzo.sprenger">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Icone Instagram">
+  </a>
