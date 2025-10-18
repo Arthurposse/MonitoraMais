@@ -38,7 +38,8 @@ Está aplicação tem como objetivo realizar a gestão e monitoramento dos produ
 
 ## 👷🏼 Desenvolvedores
 
-- Arthur Possebon
+Arthur Possebon
+    <br>
   <a href="https://www.linkedin.com/in/arthur-possebon-74a845268">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
   </a>
@@ -46,7 +47,8 @@ Está aplicação tem como objetivo realizar a gestão e monitoramento dos produ
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Icone Instagram">
   </a>
 
-- Lorenzo Sprenger
+Lorenzo Sprenger
+  <br>
   <a href="linkedin.com/in/lorenzo-vanlare-sprenger-👨🏻‍💻-7a9667239">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
   </a>
