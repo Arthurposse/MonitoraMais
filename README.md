@@ -6,8 +6,9 @@ Está aplicação tem como objetivo realizar a gestão e monitoramento dos produ
 
 ### 👤 Usuário
 - Analisar gráficos
-- Verificar lista de itens em estoque/solicitados
+- Visualizar lista de itens em estoque/solicitados
 - Receber dicas através de IA ao verificar os dados
+- Verificar calendário que apresentará as datas de entrega dos produtos
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -17,14 +18,25 @@ Está aplicação tem como objetivo realizar a gestão e monitoramento dos produ
 - **Segurança:** A decidir...
 - **Documentação:** Swagger, JSDoc e Docs
 - **Versionamento:** Git e GitHub
+- **Bibliotecas:**
+  - Bootstrap icons
+  - FullCalendar
+  - SweetAlert2
 
 ## Status do projeto
 
 🛠️ Em desenvolvimento 🛠️
 
-### A fazer:
+## A fazer:
 
-## ⚠️ Bugs para corrigir
+- Verificar layout das telas
+  - Realizar o figma
+
+- Definir paleta de cores
+
+- 
+
+## ⚠️ Bugs
 
 ## 💡 Sugestões
 
@@ -49,7 +61,7 @@ Arthur Possebon
 
 Lorenzo Sprenger
   <br>
-  <a href="linkedin.com/in/lorenzo-vanlare-sprenger-👨🏻‍💻-7a9667239">
+  <a href="https://www.linkedin.com/in/lorenzo-vanlare-sprenger-👨🏻‍💻-7a9667239">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
   </a>
   <a href="https://www.instagram.com/lorenzo.sprenger">

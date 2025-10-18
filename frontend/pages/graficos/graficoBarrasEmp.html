@@ -1,0 +1,48 @@
+<canvas id="graficoEmpilhado"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+const ctx = document.getElementById('graficoEmpilhado');
+
+new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: ['Janeiro', 'Fevereiro', 'Março', 'Abril'],
+    datasets: [
+      {
+        label: 'Produto A',
+        data: [30, 50, 40, 60],
+        backgroundColor: 'rgba(54, 162, 235, 0.8)',
+      },
+      {
+        label: 'Produto B',
+        data: [20, 30, 25, 40],
+        backgroundColor: 'rgba(255, 99, 132, 0.8)',
+      },
+      {
+        label: 'Produto C',
+        data: [10, 15, 20, 25],
+        backgroundColor: 'rgba(255, 206, 86, 0.8)',
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: {
+        display: true,
+        text: 'Gráfico de Barras Empilhadas'
+      }
+    },
+    scales: {
+      x: {
+        stacked: true
+      },
+      y: {
+        stacked: true,
+        beginAtZero: true
+      }
+    }
+  }
+});
+</script>
